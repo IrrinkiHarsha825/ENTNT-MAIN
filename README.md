@@ -1,5 +1,5 @@
 # TalentFlow
-TalentFlow is a modern, feature-rich hiring platform designed for streamlined recruitment management. Built with React.js, Vite, and Tailwind CSS, it offers a responsive UI, light/dark mode —all powered by mock APIs for rapid prototyping and testing.
+TalentFlow is a modern, feature-rich hiring platform designed for streamlined recruitment management. Built with React.js, Vite, and Tailwind CSS, it offers a responsive UI, light mode —all powered by mock APIs for rapid prototyping and testing.
 
 ## Table of Contents
 
@@ -30,7 +30,6 @@ TalentFlow is a modern, feature-rich hiring platform designed for streamlined re
 - **Styling**: Tailwind CSS (OKLCH colors, dark mode)
 - **UI Components**: Shadcn/UI
 - **Icons**: Lucide React
-- **Charts**: Recharts
 - **API Mocking**: MSW (Mock Service Worker)
 - **Theme Management**: Custom React Context
 - **Utilities**: `clsx`, `tailwind-merge`
